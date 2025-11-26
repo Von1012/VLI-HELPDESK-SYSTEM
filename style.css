@@ -1,0 +1,43 @@
+.ticket-title {
+	font-weight:bold;
+	font-size:20px;
+	margin-left:10px;
+}
+.answered {
+	font-size:10px;
+	color:#ffffff;
+	background-color:#7079d6;
+	margin:0px 0px 0px 5px;
+}
+.header-menu,
+.navbar,
+.navbar-default {
+    background-color: #D32F2F !important;
+}
+.nav-tabs > li > a,
+.nav > li > a {
+    background-color: #D32F2F !important; /* red */
+    color: white !important;
+}
+
+.nav-tabs,
+.nav {
+    background-color: #D32F2F !important; /* red bar */
+    border-color: #D32F2F !important;
+}
+body { background: #f4f6f9; font-family: 'Segoe UI', sans-serif; }
+h1,h2 { color: #343a40; font-weight: 600; }
+.card { border-radius: 0.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+.chart-container { padding: 20px; background: #fff; border-radius: 0.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+.table th { background-color: #343a40 !important; color: #fff !important; }
+.btn-export { margin-right: 10px; }
+.filters label { font-weight: 500; }
+.filters select { border-radius: 0.4rem; }
+.card h2 { font-size: 2.2rem; margin:0; }
+.active-menu {
+    background-color: #000;  /* black background */
+    color: #fff !important;   /* white text */
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
